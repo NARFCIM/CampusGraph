@@ -31,9 +31,11 @@ Courses
 Projects
 Student-project relationships
 Student interactions
-How to Run
 
-#### Install the required Python libraries:
+
+### How to Run
+
+Install the required Python libraries:
 
 pip install -r requirements.txt
 
