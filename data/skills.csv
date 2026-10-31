@@ -1,0 +1,81 @@
+student_id,skill
+S001,Python
+S001,SQL
+S001,Data Analysis
+S001,NetworkX
+S002,Python
+S002,NetworkX
+S002,Data Analysis
+S002,Git
+S003,Python
+S003,Machine Learning
+S003,SQL
+S003,Data Analysis
+S004,Python
+S004,UI Design
+S004,SQL
+S004,Git
+S005,Java
+S005,Python
+S005,Database
+S005,Git
+S006,Python
+S006,Data Analysis
+S006,Machine Learning
+S006,SQL
+S007,Python
+S007,NetworkX
+S007,Database
+S007,Git
+S008,Java
+S008,Python
+S008,UI Design
+S008,Database
+S009,Python
+S009,SQL
+S009,NetworkX
+S009,Data Analysis
+S010,Python
+S010,Machine Learning
+S010,UI Design
+S010,Git
+S011,Python
+S011,Database
+S011,NetworkX
+S011,SQL
+S012,Data Analysis
+S012,Python
+S012,Machine Learning
+S012,Git
+S013,Python
+S013,SQL
+S013,UI Design
+S013,NetworkX
+S014,Java
+S014,Database
+S014,Python
+S014,Git
+S015,Python
+S015,Data Analysis
+S015,SQL
+S015,NetworkX
+S016,Machine Learning
+S016,Python
+S016,Database
+S016,Git
+S017,Python
+S017,UI Design
+S017,SQL
+S017,Data Analysis
+S018,Java
+S018,Python
+S018,NetworkX
+S018,Database
+S019,Python
+S019,SQL
+S019,Machine Learning
+S019,Git
+S020,Data Analysis
+S020,Python
+S020,UI Design
+S020,NetworkX
