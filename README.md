@@ -1,10 +1,10 @@
-#CampusGraph
+# CampusGraph
 
-##Student Network and Collaboration Analyzer
+## Student Network and Collaboration Analyzer
 
 CampusGraph is a Python-based application that models student relationships as a network and analyzes connections, communities, skills, and potential collaboration opportunities.
 
-###Features
+### Features
 Student network visualization using NetworkX
 Degree and degree-centrality analysis
 Community detection
@@ -14,7 +14,7 @@ Skill-based collaborator recommendations
 SQLite database integration
 Interactive Streamlit dashboard
 
-###Technologies Used
+### Technologies Used
 Python
 Pandas
 NetworkX
@@ -23,7 +23,7 @@ SQLite
 Streamlit
 Dataset
 
-###he project uses a synthetic/anonymized campus dataset containing information about:
+### The project uses a synthetic/anonymized campus dataset containing information about:
 
 Students
 Skills
@@ -33,7 +33,7 @@ Student-project relationships
 Student interactions
 How to Run
 
-####Install the required Python libraries:
+#### Install the required Python libraries:
 
 pip install -r requirements.txt
 
@@ -43,7 +43,7 @@ python -m streamlit run app.py
 
 The application will open in the browser at the local Streamlit address.
 
-###Project Structure
+### Project Structure
 CampusGraph/
 ├── data/
 │   ├── students.csv
